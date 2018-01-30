@@ -25,7 +25,7 @@ SECRET_KEY = 'swmp!g%xpt6q3$66*rbiudl5*g^&e6++z%ukawn$oivd4n3m@='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'chetanrns.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'codemonk.pythonanywhere.com']
 
 
 # Application definition
